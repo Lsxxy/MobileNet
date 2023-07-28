@@ -36,7 +36,7 @@
 
 
 
-<img src="https://pic4.zhimg.com/80/v2-a20824492e3e8778a959ca3731dfeea3_720w.webp" alt="img" style="zoom: 50%;" />
+<img src="img-MobileNet/v2-a20824492e3e8778a959ca3731dfeea3_720w.jpg" alt="img" style="zoom: 50%;" />
 
 上边的图片是深度可分离卷积中深度卷积的过程，这是一个逐通道卷积的过程，一个filter对应一个通道。所以它的计算量为：
 
