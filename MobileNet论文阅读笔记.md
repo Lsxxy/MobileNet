@@ -70,7 +70,7 @@
 
 ​					2.RMSprop：RMSProp是一种用于优化神经网络权重的算法，代替普遍使用的SGD优化器。
 
-<img src="C:\Users\12777\AppData\Roaming\Typora\typora-user-images\image-20230726093843421.png" alt="image-20230726093843421" style="zoom:50%;" />
+<img src="img-MobileNet\image-20230726093843421.png" alt="image-20230726093843421" style="zoom:50%;" />
 
 ​				    3.辅助头（side heads）：用于在网络中间层添加输出层，形成额外的输出，用来计算辅助损失函数，可以缓解梯度消失的问题。
 
